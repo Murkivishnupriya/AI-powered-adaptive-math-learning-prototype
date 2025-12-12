@@ -32,7 +32,8 @@ math-adaptive-prototype/
 
 - Clone the repository:
 
-git clone https://github.com/Murkivishnupriya/math-adaptive-prototype.git
+git clone https://github.com/Murkivishnupriya/AI-powered-adaptive-math-learning-prototype.git
+
 cd math-adaptive-prototype
 
 
@@ -76,3 +77,4 @@ This project is intended for educational and demonstration purposes.
 ## Developer 
 
 Murki Vishnupriya 
+
